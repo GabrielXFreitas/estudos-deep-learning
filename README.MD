@@ -16,7 +16,7 @@ cd estudos-deep-learning
 2. Crie e ative um ambiente virtual
 
 python -m venv .venv
-.venv\Scripts\activate        
+  .venv\Scripts\activate        
 
 3. Instale as dependências
 pip install -r requisitos.txt
