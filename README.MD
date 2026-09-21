@@ -3,11 +3,11 @@
 Repositório onde registro meus estudos de Deep Learning e Machine Learning durante a faculdade. Cada estudo fica em uma pasta própria, com código e um README explicando o que foi feito e o que aprendi.
 
 # Lista de estudos
-#	Estudo	Tecnologias	Status
+Estudo	Tecnologias	Status
 01	LeNet-5 com MNIST	Python, TensorFlow/Keras, NumPy, Matplotlib	🚧 Em andamento
 
 # Como rodar os estudos
-bash
+
 # 1. Clone o repositório
 git clone https://github.com/GabrielXFreitas/estudos-deep-learning.git
 cd estudos-deep-learning
