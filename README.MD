@@ -7,7 +7,6 @@ Repositório onde registro meus estudos de Deep Learning e Machine Learning dura
 01	LeNet-5 com MNIST	Python, TensorFlow/Keras, NumPy, Matplotlib	🚧 Em andamento
 
 Como rodar os estudos
-bash
 # 1. Clone o repositório
 git clone https://github.com/GabrielXFreitas/estudos-deep-learning.git
 cd estudos-deep-learning
